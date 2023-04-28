@@ -8,4 +8,3 @@ fr:
   permalinks:
     categories: /actualites/:slug/
     posts: /actualites/:year-:month-:day-:slug/
-    persons: /equipe/:slug/
