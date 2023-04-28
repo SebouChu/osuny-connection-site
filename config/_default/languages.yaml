@@ -8,3 +8,11 @@ fr:
   permalinks:
     categories: /actualites/:slug/
     posts: /actualites/:year-:month-:day-:slug/
+en:
+  title: Site test connexion
+  contentDir: content/en
+  languageCode: en
+  languageName: English
+  permalinks:
+    categories: /actualites/:slug/
+    posts: /actualites/:year-:month-:day-:slug/

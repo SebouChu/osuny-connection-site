@@ -4,4 +4,4 @@ baseURL: https://inquisitive-pastelito-40bb83.netlify.app/
 
 ## LANGUAGE
 defaultContentLanguage: fr
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
