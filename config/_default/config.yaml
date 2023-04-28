@@ -3,4 +3,4 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 params:
-  keycdn: ''
+  keycdn: https://osunydev-1b4da.kxcdn.com
