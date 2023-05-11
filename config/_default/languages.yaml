@@ -8,6 +8,8 @@ fr:
   permalinks:
     categories: /actualites/:slug/
     posts: /actualites/:year-:month-:day-:slug/
+    persons: /equipe/:slug/
+    authors: /equipe/:slug/actualites/
 en:
   title: Site test connexion
   contentDir: content/en
@@ -16,3 +18,5 @@ en:
   permalinks:
     categories: /actualites/:slug/
     posts: /actualites/:year-:month-:day-:slug/
+    persons: /equipe/:slug/
+    authors: /equipe/:slug/actualites/
